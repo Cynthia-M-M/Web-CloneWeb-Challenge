@@ -1,5 +1,6 @@
 # 🚀 Web Development Challenge — Portfolio Website
 
+![Portfolio Banner](https://via.placeholder.com/1200x300?text=Web+Development+Challenge)
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github)](https://cynthia-m-m.github.io/web-development-challenge/)
 [![Bootstrap 5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
@@ -8,12 +9,12 @@
 
 ## 📋 Project Description
 
-This portfolio website was built as part of the **Web Development Challenge**. It showcases a clean, responsive design intended to display a designer’s services, projects, testimonials, and contact information.
+This is a portfolio website built as part of the Web Development Challenge. The website showcases a clean, responsive design to display a designer’s services, projects, testimonials, and contact information.
 
-Our team collaborated to plan, structure, and develop the website with the following core goals:
-* Practice **HTML, CSS, and Bootstrap** skills.
+Our team collaborated to plan, structure, and develop the website. The main goals were to:
+* Practice HTML, CSS, and Bootstrap skills.
 * Recreate a modern portfolio design with custom touches.
-* Ensure full responsiveness across all devices (Mobile, Tablet, Desktop).
+* Ensure responsiveness across all devices.
 
 ---
 
@@ -21,31 +22,29 @@ Our team collaborated to plan, structure, and develop the website with the follo
 
 | Role | Username | Contact |
 | :--- | :--- | :--- |
-| **Team Leader** | **Cynthia-M-M** | cynthiamogaka49@gmail.com |
-| Member | **EnockEntrepreneneur** | Enockkiprotich33@gmail.com |
-| Member | **seneudev** | mwangisimone007@gmail.com |
-| Member | **Muinami-1** | njorogemuinami@gmail.com |
+| **Team Leader** | **Cynthia-M-M** | [cynthiamogaka49@gmail.com](mailto:cynthiamogaka49@gmail.com) |
+| Member | **EnockEntrepreneneur** | [Enockkiprotich33@gmail.com](mailto:Enockkiprotich33@gmail.com) |
+| Member | **seneudev** | [mwangisimone007@gmail.com](mailto:mwangisimone007@gmail.com) |
+| Member | **Muinami-1** | [njorogemuinami@gmail.com](mailto:njorogemuinami@gmail.com) |
 
 ---
 
 ## 🛠️ Technologies Used
 
-* **HTML5:** Page structure and semantic markup.
-* **CSS3:** Custom styling, colors, and fonts.
-* **Bootstrap 5:** Responsive grid layout, utilities, and components.
-* **Google Fonts:** Modern typography.
-* **Git & GitHub:** Version control, branching, and collaboration.
+* **HTML5:** for page structure
+* **CSS3:** for custom styling
+* **Bootstrap 5:** for responsive layout and components
+* **Google Fonts:** for typography
+* **Git & GitHub:** for version control and collaboration
 
 ---
 
-## ⚙️ Project Setup & Workflow
+## ⚙️ Project Setup and Working Steps
 
-This project followed a structured development lifecycle:
-
-### 1. Repository Creation
+### 1. Repository Creation:
 We created the repository `web-development-challenge` on GitHub.
 
-### 2. Git Cloning
-Team members cloned the repository locally to begin work:
+### 2. Git Cloning:
+We cloned the repository locally:
 ```bash
 git clone [https://github.com/Cynthia-M-M/web-development-challenge.git](https://github.com/Cynthia-M-M/web-development-challenge.git)
