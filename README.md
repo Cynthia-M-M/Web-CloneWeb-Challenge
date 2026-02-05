@@ -1,5 +1,5 @@
-# 🚀 Web Development Challenge — Portfolio Website
 
+# 🚀 Web Development Challenge — Portfolio Website
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github)](https://cynthia-m-m.github.io/Web-CloneWeb-Challenge/)
 [![Bootstrap 5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
@@ -8,7 +8,7 @@
 
 ## 📋 Project Description
 
-This is a portfolio website built as part of the Web Development Challenge. The website showcases a clean, responsive design to display a designer’s services, projects, testimonials, and contact information.
+This is a portfolio website built as part of the **Web Development Challenge**. The website showcases a clean, responsive design to display a designer’s services, projects, testimonials, and contact information.
 
 Our team collaborated to plan, structure, and develop the website. The main goals were to:
 * Practice HTML, CSS, and Bootstrap skills.
@@ -30,20 +30,68 @@ Our team collaborated to plan, structure, and develop the website. The main goal
 
 ## 🛠️ Technologies Used
 
-* **HTML5:** for page structure
-* **CSS3:** for custom styling
-* **Bootstrap 5:** for responsive layout and components
-* **Google Fonts:** for typography
-* **Git & GitHub:** for version control and collaboration
+* **HTML5:** For page structure
+* **CSS3:** For custom styling and animations
+* **Bootstrap 5:** For responsive layout and components
+* **Google Fonts:** For typography
+* **Git & GitHub:** For version control and team collaboration
 
 ---
 
-## ⚙️ Project Setup and Working Steps
+## ⚙️ Project Setup
 
-### 1. Repository Creation:
+### 1. Repository Creation
 We created the repository `web-development-challenge` on GitHub.
 
-### 2. Git Cloning:
+### 2. Git Cloning
 We cloned the repository locally:
+
 ```bash
 git clone [https://github.com/Cynthia-M-M/web-development-challenge.git](https://github.com/Cynthia-M-M/web-development-challenge.git)
+
+```
+
+### 3. Open the Project
+
+Navigate to the project folder and open `index.html` in your browser.
+
+```bash
+cd web-development-challenge
+# Open index.html manually or use a live server
+
+```
+
+---
+
+## 🎨 Features
+
+* ✅ **Responsive Design:** Looks great on mobile, tablet, and desktop.
+* ✅ **Modern UI:** Clean layout using Bootstrap grid system.
+* ✅ **Interactive Elements:** Hover effects and smooth scrolling.
+* ✅ **Sections:** Home, About, Services, Portfolio, Testimonials, Contact.
+
+---
+
+## 📂 Project Structure
+
+```text
+web-development-challenge/
+│
+├── index.html          # Main HTML structure
+├── style.css           # Custom CSS styles
+├── assets/             # Images and icons
+│   ├── images/
+│   └── icons/
+└── README.md           # Project documentation
+
+```
+
+---
+
+## 📄 License
+
+This project was created for the **Web Development Challenge** and is available for educational purposes.
+
+```
+
+```
