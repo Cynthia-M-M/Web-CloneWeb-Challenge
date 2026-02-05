@@ -1,93 +1,51 @@
-🚀 Web Development Challenge — Portfolio Website
+# 🚀 Web Development Challenge — Portfolio Website
 
-👩‍💻 Team Members
-Cynthia-M-M (Team Leader) - cynthiamogaka49@gmail.com
 
-EnockEntrepreneneur - Enockkiprotich33@gmail.com
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=github)](https://cynthia-m-m.github.io/web-development-challenge/)
+[![Bootstrap 5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-seneudev - mwangisimone007@gmail.com
+## 📋 Project Description
 
-Muinami-1 - njorogemuinami@gmail.com
+This portfolio website was built as part of the **Web Development Challenge**. It showcases a clean, responsive design intended to display a designer’s services, projects, testimonials, and contact information.
 
-📋 Project Description
-This is a portfolio website built as part of the Web Development Challenge. The website showcases a clean, responsive design to display a designer’s services, projects, testimonials, and contact information.
+Our team collaborated to plan, structure, and develop the website with the following core goals:
+* Practice **HTML, CSS, and Bootstrap** skills.
+* Recreate a modern portfolio design with custom touches.
+* Ensure full responsiveness across all devices (Mobile, Tablet, Desktop).
 
-Our team collaborated to plan, structure, and develop the website. The main goals were to:
+---
 
-Practice HTML, CSS, and Bootstrap skills.
+## 👩‍💻 Team Members
 
-Recreate a modern portfolio design with custom touches.
+| Role | Username | Contact |
+| :--- | :--- | :--- |
+| **Team Leader** | **Cynthia-M-M** | cynthiamogaka49@gmail.com |
+| Member | **EnockEntrepreneneur** | Enockkiprotich33@gmail.com |
+| Member | **seneudev** | mwangisimone007@gmail.com |
+| Member | **Muinami-1** | njorogemuinami@gmail.com |
 
-Ensure responsiveness across all devices.
+---
 
-🛠️ Technologies Used
-HTML5: for page structure
+## 🛠️ Technologies Used
 
-CSS3: for custom styling
+* **HTML5:** Page structure and semantic markup.
+* **CSS3:** Custom styling, colors, and fonts.
+* **Bootstrap 5:** Responsive grid layout, utilities, and components.
+* **Google Fonts:** Modern typography.
+* **Git & GitHub:** Version control, branching, and collaboration.
 
-Bootstrap 5: for responsive layout and components
+---
 
-Google Fonts: for typography
+## ⚙️ Project Setup & Workflow
 
-Git & GitHub: for version control and collaboration
+This project followed a structured development lifecycle:
 
-⚙️ Project Setup and Working Steps
-1. Repository Creation:
-We created the repository web-development-challenge on GitHub.
+### 1. Repository Creation
+We created the repository `web-development-challenge` on GitHub.
 
-2. Git Cloning:
-We cloned the repository locally:
-
-bash
-Copy
-Edit
-git clone https://github.com/Cynthia-M-M/web-development-challenge.git
-3. Project Development:
-Structured the folder with index.html, css/, images/, and README.md.
-
-Designed sections: Navbar, Hero, About, Services, Portfolio, Testimonials, Contact Form, Footer.
-
-Used Bootstrap 5 grid system and utilities.
-
-Customized colors, fonts, and spacing with custom CSS.
-
-Added responsiveness testing across devices.
-
-4. 🧑‍🤝‍🧑 Collaboration
-Cynthia-M-M (Team Leader)
-
-seneudev
-
-Collaborated via Git commits and pull requests for effective teamwork.
-
-5. Git Commit and Push:
-After completing the project files:
-
-bash
-Copy
-Edit
-git add .
-git commit -m "Added portfolio website project"
-git push origin main
-🎨 Project Features
-Modern and clean UI/UX design.
-
-Fully responsive layout (mobile, tablet, desktop).
-
-Structured, reusable, and clean code.
-
-Organized project folder for easy maintenance.
-
-🌟 Challenges Faced
-Aligning Bootstrap components precisely with design expectations.
-
-Managing responsive behavior on different screen sizes.
-
-Fine-tuning custom styles without breaking Bootstrap defaults.
-
-📄 License
-This project is created as part of an educational challenge.
-It is open for learning purposes only.
-
-6. Deployment
-site is live at https://cynthia-m-m.github.io/web-development-challenge/
+### 2. Git Cloning
+Team members cloned the repository locally to begin work:
+```bash
+git clone [https://github.com/Cynthia-M-M/web-development-challenge.git](https://github.com/Cynthia-M-M/web-development-challenge.git)
